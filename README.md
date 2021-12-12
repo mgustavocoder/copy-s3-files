@@ -1,5 +1,5 @@
 # Description
-Just copy the objects from a folder in an S3 bucket to another, in the same bucket.
+Just copy the objects from an S3 bucket folder to another folder, in the same bucket.
 
 ## But why?
 So, I had a motivation to do that, you I don't know =)
